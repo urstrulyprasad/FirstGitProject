@@ -69,3 +69,11 @@
   109  clip < mykeys_id_rsa.pub
   110  clip < mykeys_id_rsa.pub
   111  cd C:/Users/raman/OneDrive/Desktop/FirstGitProject
+  113  git push origin master
+  114  git add history.txt
+  115  git status
+  116  git commit -m "My second commit for git history and placed in history.txt file"
+  117  git log
+  118  git push origin master
+
+Here added some more history to this file and again adding and commiting and pushing again... so let's see.
