@@ -1,0 +1,71 @@
+    1  git
+    2  git --version
+    3* pwdgit help add
+    4  git help
+    5  git help add
+    6  git help add
+    7  git help add
+    8  cls
+    9  git config --list
+   10  history 
+   11  git config --list
+   12  git config --global user.name "prasad"
+   13  git config --global user.mail "maheshwar.uma.v@gmail.com"
+   14  git config --list
+   15  git config --global user.name "urstrulyprasad"
+   16  C:\Users\raman\OneDrive\Desktop\FirstGitProject (wrong, use forward slash)
+   17  cd "C:/Users/raman/OneDrive/Desktop/FirstGitProject"
+   18  pwd
+   19  git init
+   20  git status
+   21  touch my_world.py
+   22  ls
+   23  ls
+   24  cat my_world.py 
+   25  git status
+   26  git add my_world.py 
+   27  git status
+   28  git commit -m "My First Commit Using GIT!"
+   29  git config --global user.email "maheshwar.uma.v@gmail.com"
+   30  git commit -m "My First Commit Using GIT!"
+   31  git log
+   32  git status
+   33  touch greetings.py
+   34  ls
+   35  git status
+   36  git add greetings.py 
+   37  cat greetings.py 
+   38  git add greetings.py 
+   39  git commit -m "Added greetings.py file"
+   40  git status
+   41  git log
+   42  cat my_world.py 
+   43  git status
+   44  git status
+   45  cat greetings.py 
+   46  git add my_world.py 
+   47  git status
+   48  git add greetings.py 
+   49  git status
+   50  git commit -m "some descriptive message to for commit"
+   51  git log
+   52  git diff greetings.py
+   53  git diff
+   54  cat greetings.py 
+   55  git diff
+   56  git log
+   57  git ls-files
+   58  hist
+   59  history 
+   60  git config --list
+   61  history 
+   62  history > history.txt
+    103  ssh-keygen -t rsa -b 4096 -C "maheshwar.uma.v@gmail.com"
+  104  cd ~/.ssh/
+  105  ls
+  106  ssh-add mykeys_id_rsa
+  107  eval $(ssh-agent -s)
+  108  ssh-add mykeys_id_rsa
+  109  clip < mykeys_id_rsa.pub
+  110  clip < mykeys_id_rsa.pub
+  111  cd C:/Users/raman/OneDrive/Desktop/FirstGitProject
