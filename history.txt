@@ -77,3 +77,11 @@
   118  git push origin master
 
 Here added some more history to this file and again adding and commiting and pushing again... so let's see.
+  120  git add history.txt
+  121  git status
+  122  git add history.txt
+  123  git status
+  124  git commit -m "My third commit for my git history file"
+  125  git log
+  126  git push origin master
+  
