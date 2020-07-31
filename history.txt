@@ -84,4 +84,11 @@ Here added some more history to this file and again adding and commiting and pus
   124  git commit -m "My third commit for my git history file"
   125  git log
   126  git push origin master
-  
+   133  touch .gitignore
+  134  git status
+  135  touch temp.txt
+  136  cat temp.txt
+  137  git status
+  138  git add .gitignore
+  139  git commit -m "Added .gitignore file with IGNORE RULES"
+  140  git push origin master
